@@ -14,6 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-##### I'm a 2nd year computer science student in Vietnam
-##### Currently working on being a software developer
-##### This is just an attempt of learning how to make a .md file
+#### I'm a 2nd year computer science student in Vietnam
+#### Currently working on being a software developer
